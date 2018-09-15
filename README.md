@@ -1,2 +1,8 @@
-# campaign_adina_app
-Campaign mobile app : SMS and Voice
+# campaign_notifier
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).

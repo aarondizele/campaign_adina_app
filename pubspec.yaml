@@ -1,0 +1,36 @@
+name: campaign_notifier
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^0.4.1
+  audio_recorder: ^0.0.5
+  audioplayer:
+  stereo:
+  intl: ^0.15.7
+  firebase_storage: ^1.0.1
+  sqflite: any
+  date_format:
+  connectivity: ^0.3.1
+  http:
+  cupertino_icons: ^0.1.2
+  simple_permissions: ^0.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+      - family: Rubik
+        fonts:
+          - asset: fonts/Rubik-Regular.ttf
+          - asset: fonts/Rubik-Medium.ttf
+            weight: 700
+      - family: Product Sans
+        fonts:
+          - asset: fonts/Product-Sans-Regular.ttf
+          - asset: fonts/Product-Sans-Bold.ttf
+            weight: 700
